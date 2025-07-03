@@ -1,15 +1,15 @@
 # Download and install Citrix Workspace
 
-Citrix Workspace is a secure platform that provides access to Citrix-hosted applications and virtual desktops from any remote device. It enables users to connect effortlessly to Citrix Virtual Apps, DaaS, and Virtual Desktops through a consistent, reliable experience.
-
+* [Installation](#installation)
 * [System Requirements](#system-requirements)
 * [Configuration](#configuration)
-* [Troubleshooting](#troubleshooting)
+* [Troubleshooting and Support](#troubleshooting)
 * [Changelog](#changelog)
 * [Key Features](#key-features)
 
-## 📥 Download
-> ### Get the latest version here: [Download Citrix Workspace](*)
+## Installation
+Use the link below to download the Citrix Workspace setup file:          
+**⬇️ [Citrix Workspace Windows Installer](*)**
 
 - Launch the installer and follow the prompts on the screen.
 - Set up the client according to your organization's specifications. For detailed instructions on installation and configuration, consult the Installation and Setup Guide.
